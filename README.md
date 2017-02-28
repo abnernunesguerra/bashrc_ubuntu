@@ -1,2 +1,2 @@
-# bashrc_ubuntu
-~/.bashrc custom for ubuntu
+# ~/.bashrc custom for ubuntu
+Location: /home/user/.bashrc
