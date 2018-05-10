@@ -5,7 +5,7 @@
 #
 # Location: /home/user/.bashrc
 #
-# @link: https://github.com/estefanions/bashrc_ubuntu
+# @link: https://github.com/abnernunesguerra/bashrc_ubuntu
 # @copyright Copyright (c) 2017
 #
 
