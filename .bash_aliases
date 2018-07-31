@@ -34,4 +34,5 @@ alias screencast-webcam-bl='mplayer -cache 128 -tv driver=v4l2:width=320:height=
 # show bottom right
 alias screencast-webcam-br='mplayer -cache 128 -tv driver=v4l2:width=320:height=240 -vo xv tv:// -noborder -geometry "95%:80%" -ontop'
 
-
+alias chmod_d='sudo find . -type d -exec chmod -R 775 "{}" \;'
+alias chmod_f='sudo find . -type f -exec chmod 644 "{}" \;'
